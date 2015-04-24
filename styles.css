@@ -10,8 +10,9 @@
 	border-radius: 5px;
 }
 
-.main {
-	background-color: transparent;
+
+.centering img {
+	margin: 0 auto;
 }
 
 .marquee {
@@ -20,15 +21,15 @@
 	border: 1px solid #000;
 	position: absolute;
 	font-family: 'Architects Daughter', cursive;
+	font-size: 18px;
 	padding-right: 5px;
 	padding-left: 5px;
 }
 
-#mContainer {
+.mContainer {
 	height: 300px;
 	width: 100%;
 	position: absolute;
 	overflow: hidden;
-/*	margin-bottom: 20px;*/
-	margin-left: 35px;
+	margin-bottom: 20px;
 }

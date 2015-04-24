@@ -1,0 +1,20 @@
+.jumbotron {
+	background-color: transparent;
+	font-family: 'Lato', sans-serif;
+	padding: 10px;
+	color: #fff;
+}
+
+.main {
+	background-color: #07AA9E;
+}
+
+.centering {
+	text-align: center;
+}
+
+.centering img {
+	margin: 0 auto;
+}
+
+
